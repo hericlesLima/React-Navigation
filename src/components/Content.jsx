@@ -11,7 +11,7 @@ const Content = props => (
             <Route path='/about'>
                 <About/>
             </Route>
-            <Route path='/param:id'>
+            <Route path='/param/:id'>
                 <Param/>
             </Route>
             <Route path='/'>
