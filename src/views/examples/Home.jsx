@@ -3,7 +3,7 @@ import './Home.css'
 
 const Home = props => (
     <div className= 'Home'>
-        Componente 
+        Inicio
     </div>
 )
 
